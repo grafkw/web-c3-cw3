@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Cairo:wght@200&display=swap");
+.text-color {
+  color: rgb(255, 0, 0);
+  background-color: rgb(73, 248, 248);
+}
+
+#color {
+  color: rgb(73, 157, 196);
+}
+h1 {
+  font-family: "Cairo", sans-serif;
+  font-weight: bolder;
+}
